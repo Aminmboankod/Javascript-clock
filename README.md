@@ -13,4 +13,4 @@ Las indicaciones para entregar el ejercicio son:
 
 ## Visualización
 
-![Portada](/img/portada.png)
+![Portada](/docs/img/portada.png)
