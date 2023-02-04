@@ -19,8 +19,8 @@ function updateDigit(num, id1, id2) {
     let firstDigit = Math.floor(num/10);
     let lastDigit = num % 10;
 
-    document.getElementById(id1).src = "/img/"+firstDigit + ".jpg"
-    document.getElementById(id2).src = "/img/"+lastDigit + ".jpg"
+    document.getElementById(id1).src = "img/"+firstDigit + ".jpg"
+    document.getElementById(id2).src = "img/"+lastDigit + ".jpg"
 }
 
 setTimeout( updateAll, 700);
